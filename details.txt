@@ -1,0 +1,4 @@
+database in db folder
+helpinghands.sql
+
+all users password is 12345
